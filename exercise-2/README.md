@@ -23,7 +23,3 @@ At this point, GitHub should prevent **Person 2** from pushing because they are 
 ## Rebasing
 To allow **Person 2** to replay their changes on top of the most recent version of the project, they should `rebase` the changes from the remote:
 
-- **Person 2** should pull and rebase changes from GitHub (i.e., `git pull --rebase origin master`). This should **not** work smoothly because **Person 1** and **Person 2** edited the **same line of the same file**.
-- **Person 2** will then have to open up the `README.md` file to make changes manually to the file
-- After making the file look **exactly how the want**, **Person 2** should add their changes to the rebase (i.e., `git add .`) and then continue (complete) the rebase (`git rebase --continue`)
-- **Person 2** should now be able to push their (integrated) changes up to GitHub.

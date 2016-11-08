@@ -1,14 +1,6 @@
 # Exercise-3
 In this exercise, you'll practice creating and merging branches. You should complete this exercise by creating your own repository to work with.
 
-## Set up
-
-To set up the repository, take the following steps:
-
-- Create a new repository on GitHub with a `README.md` file.
-- Clone the repository to your machine
-
-## Making branches
 
 In this section, you'll create a new branch, and practice switching between branches.
 
